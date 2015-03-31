@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1427493185 source:c:\users\ea88win7sp1-nb\documents\lp_planif_reu\horas.cpp
+	"horas.h"
+
+1427493370 c:\users\ea88win7sp1-nb\documents\lp_planif_reu\horas.h
+
+1427500558 source:c:\users\ea88win7sp1-nb\documents\lp_planif_reu\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	"horas.h"
+	"schedule.h"
+	"funciones.h"
+	"init.h"
+
+1427616653 c:\users\ea88win7sp1-nb\documents\lp_planif_reu\schedule.h
+	<vector>
+	<string>
+	"horas.h"
+
+1427611068 c:\users\ea88win7sp1-nb\documents\lp_planif_reu\funciones.h
+	<stdlib.h>
+	"horas.h"
+
+1427610702 source:c:\users\ea88win7sp1-nb\documents\lp_planif_reu\schedule.cpp
+	"schedule.h"
+
+1427498913 source:c:\users\ea88win7sp1-nb\documents\lp_planif_reu\funciones.cpp
+	"funciones.h"
+
+1427611732 source:c:\users\ea88win7sp1-nb\documents\lp_planif_reu\horario_archivo.cpp
+	"horario_archivo.h"
+
+1427612383 c:\users\ea88win7sp1-nb\documents\lp_planif_reu\horario_archivo.h
+	<iostream>
+	<fstream>
+	<vector>
+	<list>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"schedule.h"
+
+1427611911 source:c:\users\ea88win7sp1-nb\documents\lp_planif_reu\init.cpp
+	"init.h"
+
+1427611911 c:\users\ea88win7sp1-nb\documents\lp_planif_reu\init.h
+	"horario_archivo.h"
+
+1427758494 source:c:\users\alferx\downloads\lp_planif_reu\lp_planif_reu\funciones.cpp
+	"funciones.h"
+
+1427753264 c:\users\alferx\downloads\lp_planif_reu\lp_planif_reu\funciones.h
+	<stdlib.h>
+	<vector>
+	<iostream>
+	<string>
+	"horas.h"
+
+1427493370 c:\users\alferx\downloads\lp_planif_reu\lp_planif_reu\horas.h
+
+1427755022 source:c:\users\alferx\downloads\lp_planif_reu\lp_planif_reu\horario_archivo.cpp
+	"horario_archivo.h"
+
+1427758607 c:\users\alferx\downloads\lp_planif_reu\lp_planif_reu\horario_archivo.h
+	<iostream>
+	<fstream>
+	<vector>
+	<list>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"schedule.h"
+
+1427745595 c:\users\alferx\downloads\lp_planif_reu\lp_planif_reu\schedule.h
+	<iostream>
+	<string>
+	<vector>
+	"Horas.h"
+
+1427493185 source:c:\users\alferx\downloads\lp_planif_reu\lp_planif_reu\horas.cpp
+	"horas.h"
+
+1427758985 source:c:\users\alferx\downloads\lp_planif_reu\lp_planif_reu\init.cpp
+	"init.h"
+
+1427749625 c:\users\alferx\downloads\lp_planif_reu\lp_planif_reu\init.h
+	"horario_archivo.h"
+	"funciones.h"
+
+1427500558 source:c:\users\alferx\downloads\lp_planif_reu\lp_planif_reu\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	"horas.h"
+	"schedule.h"
+	"funciones.h"
+	"init.h"
+
+1427745595 source:c:\users\alferx\downloads\lp_planif_reu\lp_planif_reu\schedule.cpp
+	"Schedule.h"
+
